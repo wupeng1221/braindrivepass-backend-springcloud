@@ -2,7 +2,7 @@ spring:
   application:
     name: gateway
   profiles:
-    active: dev
+    active: prod
   cloud:
     nacos:
       server-addr: 8.130.103.223:8848
